@@ -1,0 +1,32 @@
+{
+  "name": "react-native-noDB",
+  "version": "1.0.0",
+  "description": "File-based embedded data store for react-native",
+  "author": {
+	"name": "Mrak-9",
+	"email": "Mrak-9@mail.ru"
+  },
+  "contributors": [
+	"Mrak-9"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mrak-9/react-native-noDB",
+  "repository": {
+	"type": "git",
+	"url": "git@github.com:mrak-9/react-native-noDB.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+	"nedb": "^1.8.0",
+	"async": "^2.6.1",
+	"binary-search-tree": "^0.2.6",
+	"events": "1.1.0",
+	"underscore": "^1.9.1",
+	"util": "^0.11.1",
+	"react-native-fs": "^2.14.1",
+	"react-native": "^0.60.5"
+  },
+  "peerDependencies": {
+	"react-native": "^0.41.2"
+  }
+}
