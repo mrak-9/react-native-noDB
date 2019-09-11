@@ -1,6 +1,6 @@
 var fs = require('react-native-fs')
 	, async = require('async')
-	, customUtils = require('../lib/custom-utils')
+	, customUtils = require('nedb/lib/custom-utils')
 	, path = customUtils.path;
 , storage = {}
 ;
