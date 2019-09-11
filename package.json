@@ -16,13 +16,16 @@
 	"url": "git@github.com:mrak-9/react-native-noDB.git"
   },
   "main": "src/index.js",
-  "peerDependencies": {
+  "dependencies": {
 	"nedb": "^1.8.0",
 	"async": "^3.1.0",
 	"events": "^3.0.0",
-	"react-native": "^0.41.2",
 	"util": "^0.12.1",
 	"path": "^0.12.7",
 	"react-native-fs": "^2.14.1"
+  },
+
+  "peerDependencies": {
+	"react-native": "^0.41.2"
   }
 }
