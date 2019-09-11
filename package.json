@@ -15,7 +15,7 @@
 	"type": "git",
 	"url": "git@github.com:mrak-9/react-native-noDB.git"
   },
-  "main": "index.js",
+  "main": "src/index.js",
   "dependencies": {
 	"nedb": "^1.8.0",
 	"async": "^2.6.1",
@@ -25,6 +25,7 @@
 	"util": "^0.11.1",
 	"react-native-fs": "^2.14.1"
   },
+
   "peerDependencies": {
 	"react-native": "^0.41.2"
   }

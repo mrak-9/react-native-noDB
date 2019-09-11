@@ -1,4 +1,4 @@
-const Datastore = require('nedb-core');
+const Datastore = require('nedb');
 
 module.exports = function(options = {}) {
 	if (!options.storage && !options.inMemoryOnly) {
