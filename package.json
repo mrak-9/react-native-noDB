@@ -22,8 +22,6 @@
     "util": "^0.12.1",
     "path": "^0.12.7",
     "react-native-fs": "^2.14.1",
-    "react-native-crypto": "^2.2.0",
-    "react-native-randombytes": "^3.5.3"
   },
   "main": "index",
   "license": "MIT",
