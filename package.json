@@ -21,7 +21,7 @@
     "events": "^3.0.0",
     "util": "^0.12.1",
     "path": "^0.12.7",
-    "react-native-fs": "^2.14.1"
+    "rn-fetch-blob": "^0.10.16"
   },
   "main": "index",
   "license": "MIT",
